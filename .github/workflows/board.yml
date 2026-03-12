@@ -1,0 +1,35 @@
+name: Release new board revision
+on:
+  push:
+    tags:
+      - 'board-*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    container: ghcr.io/inti-cmnb/kicad9_auto_full:latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build board using KiBot
+        run: |
+          cd kicad
+          kibot -e "OM-16LED.kicad_sch"
+      - name: Rename artifact
+        run: |
+          cd kicad/Release
+          TAG_NAME="${GITHUB_REF_NAME#board-}"
+          ARTIFACT_NAME="board-${TAG_NAME}.zip"
+          mv board_artifact.zip "${ARTIFACT_NAME}"
+          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
+          echo "ARTIFACT_NAME=${ARTIFACT_NAME}" >> $GITHUB_ENV
+      - name: Create GitHub Release and upload board artifact
+        uses: softprops/action-gh-release@v2.5.0
+        with:
+          files: ./kicad/Release/${{ env.ARTIFACT_NAME }}
+          name: Board revision ${{ env.TAG_NAME }}
+          generate_release_notes: true
+          make_latest: true

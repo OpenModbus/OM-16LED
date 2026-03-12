@@ -1,0 +1,223 @@
+(footprint "Converter_DCDC_MeanWell_N78-2CH"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "2A Non-Isolated DC-DC Switching Regulator")
+	(property "Reference" "REF**"
+		(at -2.54 -21 180)
+		(layer "F.SilkS")
+		(uuid "4bce3111-7f37-4620-a920-37be359f10a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Converter_DCDC_MeanWell_N78-2CH"
+		(at 0 3 180)
+		(layer "F.Fab")
+		(uuid "222689ae-21d5-410e-aa53-dd6321fe9751")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6357/N78-2-spec.pdf"
+		(at -2.54 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06fb0c97-bdcf-4273-9c18-007f81d9af65")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "2A Non-Isolated DC-DC Switching Regulator"
+		(at -2.54 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88d62eb1-9fa2-4c13-a3b3-77f5e44bc0ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.9 -19.025)
+		(end -5.9 -1.225)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14f41977-0da0-4a80-a431-28ee2a2b9a21")
+	)
+	(fp_line
+		(start -5.9 -1.225)
+		(end 5.9 -1.225)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "08c26300-cb16-42f6-87f5-8fba80de5491")
+	)
+	(fp_line
+		(start 5.9 -19.025)
+		(end -5.9 -19.025)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ce2cc36-475a-44a8-8c9e-3926cdfabf44")
+	)
+	(fp_line
+		(start 5.9 -1.225)
+		(end 5.9 -19.025)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c4b5f4ab-5396-4b82-ac40-db57098476cf")
+	)
+	(fp_line
+		(start -6.05 -19.175)
+		(end -6.05 1.375)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1f6d1d28-fc61-421c-a7a9-eb8226ab7ae5")
+	)
+	(fp_line
+		(start -6.05 1.375)
+		(end 6.05 1.375)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d0b2930-6e5a-40cd-a437-8ec6742b7f4c")
+	)
+	(fp_line
+		(start 6.05 -19.175)
+		(end -6.05 -19.175)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d3ec60ad-04e3-486c-b9e4-2143e2c4e574")
+	)
+	(fp_line
+		(start 6.05 1.375)
+		(end 6.05 -19.175)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cbf2247a-a22c-4e26-ab01-0df4698a5001")
+	)
+	(fp_line
+		(start -5.75 -18.875)
+		(end 5.75 -18.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "800301ff-eea8-4583-a49b-ac3c4dbd0f64")
+	)
+	(fp_line
+		(start -5.75 -1.375)
+		(end -5.75 -18.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f70bebc7-2fce-4728-8d6d-ec3c04608b14")
+	)
+	(fp_line
+		(start 5.75 -18.875)
+		(end 5.75 -1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "182ba529-121a-4b33-ab91-9d46f901c0f0")
+	)
+	(fp_line
+		(start 5.75 -1.375)
+		(end -5.75 -1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "134d7270-41e7-4cfa-a4fe-059b968259a8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -10.98 180)
+		(layer "F.Fab")
+		(uuid "9366beeb-74c8-4401-b1c5-eb7a702558e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -2.54 0 180)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d55e6665-05bf-4ce5-a3dd-02b55c7cf14d")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0 180)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9660c4e7-4fa0-4dbb-b5c5-f23f22a37233")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0 180)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dd538aa4-675b-4536-ac61-a38923e6d0d7")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D/R-78K-2.0L.stp"
+		(offset
+			(xyz 0 18.7 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -180)
+		)
+	)
+)
