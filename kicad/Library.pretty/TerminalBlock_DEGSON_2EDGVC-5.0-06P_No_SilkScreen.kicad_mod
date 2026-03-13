@@ -386,13 +386,13 @@
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/3D/2EDGVC-5.0-06P-1Y-100Z(H).stp"
 		(offset
-			(xyz -70 0.5 12)
+			(xyz 95 0 12)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz -0 -0 180)
 		)
 	)
 )
