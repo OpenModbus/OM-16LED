@@ -1,4 +1,4 @@
-27117324205022575
+27121089023092687
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71459,6 +71459,20 @@ Library
 TerminalBlock_DEGSON_2EDGVC-5.0-06P_No_SilkScreen
 Pluggable terminal blocks,Rated current:20A.Rated voltage （Ⅲ/2）:320V,pitch:5.0mm,Color:green,Contact surface :Tin
 Terminal Block DEGSON 15EDGVC pitch 3.5mm 6P
+0
+6
+6
+Library
+TerminalBlock_KF301-5.0-04P_No_SilkScreen
+
+Terminal Block KEFA KF301 pitch 5.0mm 4P
+0
+4
+4
+Library
+TerminalBlock_KF301-5.0-06P_No_SilkScreen
+
+Terminal Block KEFA KF301 pitch 5.0mm 6P
 0
 6
 6

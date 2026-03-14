@@ -15621,7 +15621,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2EDGVC-5.0-06P"
+		(property "Value" "KF301-5.0-06P"
 			(at 226.06 142.2401 0)
 			(effects
 				(font
@@ -15630,7 +15630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:TerminalBlock_DEGSON_2EDGVC-5.0-06P_No_SilkScreen"
+		(property "Footprint" "Library:TerminalBlock_KF301-5.0-06P_No_SilkScreen"
 			(at 223.52 144.78 0)
 			(effects
 				(font
@@ -15665,7 +15665,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C441379"
+		(property "LCSC#" ""
 			(at 223.52 144.78 0)
 			(effects
 				(font
@@ -15674,7 +15674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "DEGSON"
+		(property "Manufacturer" "KEFA"
 			(at 223.52 144.78 0)
 			(effects
 				(font
@@ -15683,7 +15683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "10030002306"
+		(property "Part Number" ""
 			(at 223.52 144.78 0)
 			(effects
 				(font
@@ -17608,7 +17608,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2EDGVC-5.0-04P"
+		(property "Value" "KF301-5.0-04P"
 			(at 35.56 218.4399 0)
 			(effects
 				(font
@@ -17617,7 +17617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:TerminalBlock_DEGSON_2EDGVC-5.0-04P_No_SilkScreen"
+		(property "Footprint" "Library:TerminalBlock_KF301-5.0-04P_No_SilkScreen"
 			(at 38.1 215.9 0)
 			(effects
 				(font
@@ -17652,7 +17652,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C441377"
+		(property "LCSC#" ""
 			(at 38.1 215.9 0)
 			(effects
 				(font
@@ -17661,7 +17661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "DEGSON"
+		(property "Manufacturer" "KEFA"
 			(at 38.1 215.9 0)
 			(effects
 				(font
@@ -17670,7 +17670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "10030002303"
+		(property "Part Number" ""
 			(at 38.1 215.9 0)
 			(effects
 				(font
@@ -18204,7 +18204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2EDGVC-5.0-06P"
+		(property "Value" "KF301-5.0-06P"
 			(at 327.66 26.6701 0)
 			(effects
 				(font
@@ -18213,7 +18213,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:TerminalBlock_DEGSON_2EDGVC-5.0-06P_No_SilkScreen"
+		(property "Footprint" "Library:TerminalBlock_KF301-5.0-06P_No_SilkScreen"
 			(at 325.12 29.21 0)
 			(effects
 				(font
@@ -18248,7 +18248,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C441379"
+		(property "LCSC#" ""
 			(at 325.12 29.21 0)
 			(effects
 				(font
@@ -18257,7 +18257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "DEGSON"
+		(property "Manufacturer" "KEFA"
 			(at 325.12 29.21 0)
 			(effects
 				(font
@@ -18266,7 +18266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "10030002306"
+		(property "Part Number" ""
 			(at 325.12 29.21 0)
 			(effects
 				(font
@@ -23318,7 +23318,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2EDGVC-5.0-06P"
+		(property "Value" "KF301-5.0-06P"
 			(at 327.66 142.2401 0)
 			(effects
 				(font
@@ -23327,7 +23327,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:TerminalBlock_DEGSON_2EDGVC-5.0-06P_No_SilkScreen"
+		(property "Footprint" "Library:TerminalBlock_KF301-5.0-06P_No_SilkScreen"
 			(at 325.12 144.78 0)
 			(effects
 				(font
@@ -23362,7 +23362,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C441379"
+		(property "LCSC#" ""
 			(at 325.12 144.78 0)
 			(effects
 				(font
@@ -23371,7 +23371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "DEGSON"
+		(property "Manufacturer" "KEFA"
 			(at 325.12 144.78 0)
 			(effects
 				(font
@@ -23380,7 +23380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "10030002306"
+		(property "Part Number" ""
 			(at 325.12 144.78 0)
 			(effects
 				(font
@@ -24962,7 +24962,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2EDGVC-5.0-06P"
+		(property "Value" "KF301-5.0-06P"
 			(at 218.44 26.6701 0)
 			(effects
 				(font
@@ -24971,7 +24971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:TerminalBlock_DEGSON_2EDGVC-5.0-06P_No_SilkScreen"
+		(property "Footprint" "Library:TerminalBlock_KF301-5.0-06P_No_SilkScreen"
 			(at 215.9 29.21 0)
 			(effects
 				(font
@@ -25006,7 +25006,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C441379"
+		(property "LCSC#" ""
 			(at 215.9 29.21 0)
 			(effects
 				(font
@@ -25015,7 +25015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "DEGSON"
+		(property "Manufacturer" "KEFA"
 			(at 215.9 29.21 0)
 			(effects
 				(font
@@ -25024,7 +25024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "10030002306"
+		(property "Part Number" ""
 			(at 215.9 29.21 0)
 			(effects
 				(font
