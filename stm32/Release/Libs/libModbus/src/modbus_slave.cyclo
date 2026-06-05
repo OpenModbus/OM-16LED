@@ -1,0 +1,5 @@
+../Libs/libModbus/src/modbus_slave.c:19:5:modbus_slave_init	5
+../Libs/libModbus/src/modbus_slave.c:51:6:modbus_slave_rx_byte	4
+../Libs/libModbus/src/modbus_slave.c:97:6:modbus_slave_1_5t_elapsed	2
+../Libs/libModbus/src/modbus_slave.c:105:6:modbus_slave_3_5t_elapsed	3
+../Libs/libModbus/src/modbus_slave.c:228:6:modbus_slave_poll	21

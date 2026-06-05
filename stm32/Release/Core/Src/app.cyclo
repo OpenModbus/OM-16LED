@@ -1,0 +1,10 @@
+../Core/Src/app.c:56:13:pwm_apply_channel	7
+../Core/Src/app.c:113:28:mb_write_single_register	8
+../Core/Src/app.c:171:13:mb_transmit	2
+../Core/Src/app.c:131:28:mb_write_multiple_registers	13
+../Core/Src/app.c:100:28:mb_read_holding_registers	4
+../Core/Src/app.c:183:6:HAL_UART_RxCpltCallback	2
+../Core/Src/app.c:195:6:HAL_UART_ErrorCallback	2
+../Core/Src/app.c:201:6:HAL_TIM_PeriodElapsedCallback	6
+../Core/Src/app.c:212:6:app_init	2
+../Core/Src/app.c:237:6:app_poll	10

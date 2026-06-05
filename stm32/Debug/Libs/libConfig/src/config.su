@@ -1,0 +1,7 @@
+../Libs/libConfig/src/config.c:8:8:config_defaults	104	static
+../Libs/libConfig/src/config.c:25:8:config_load	104	static
+../Libs/libConfig/src/config.c:45:6:config_save	120	static
+../Libs/libConfig/src/config.c:75:6:config_apply	40	static
+../Libs/libConfig/src/config.c:107:6:config_validate_reg	16	static
+../Libs/libConfig/src/config.c:121:6:config_set_reg	16	static
+../Libs/libConfig/src/config.c:140:10:config_get_reg	16	static

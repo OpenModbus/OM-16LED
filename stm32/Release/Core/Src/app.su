@@ -1,0 +1,10 @@
+../Core/Src/app.c:56:13:pwm_apply_channel	8	static
+../Core/Src/app.c:113:28:mb_write_single_register	16	static
+../Core/Src/app.c:171:13:mb_transmit	16	static
+../Core/Src/app.c:131:28:mb_write_multiple_registers	32	static
+../Core/Src/app.c:100:28:mb_read_holding_registers	24	static
+../Core/Src/app.c:183:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/app.c:195:6:HAL_UART_ErrorCallback	0	static
+../Core/Src/app.c:201:6:HAL_TIM_PeriodElapsedCallback	8	static
+../Core/Src/app.c:212:6:app_init	144	static
+../Core/Src/app.c:237:6:app_poll	40	static,ignoring_inline_asm

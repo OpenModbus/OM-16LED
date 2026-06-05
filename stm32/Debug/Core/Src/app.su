@@ -1,0 +1,14 @@
+C:/Users/Sebastian/STM32Cube/Repository/STM32Cube_FW_G4_V1.6.2/Drivers/CMSIS/Include/core_cm4.h:1933:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+C:/Users/Sebastian/Git/OM-16LED/stm32/Libs/libModbus/src/modbus_bytes.h:15:24:modbus_be16_get	16	static
+C:/Users/Sebastian/Git/OM-16LED/stm32/Libs/libModbus/src/modbus_bytes.h:25:20:modbus_be16_set	16	static
+../Core/Src/app.c:56:13:pwm_apply_channel	24	static
+../Core/Src/app.c:68:13:ramp_update	64	static
+../Core/Src/app.c:100:28:mb_read_holding_registers	24	static
+../Core/Src/app.c:113:28:mb_write_single_register	24	static
+../Core/Src/app.c:131:28:mb_write_multiple_registers	32	static
+../Core/Src/app.c:171:13:mb_transmit	16	static
+../Core/Src/app.c:183:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/app.c:195:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/app.c:201:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/app.c:212:6:app_init	152	static
+../Core/Src/app.c:237:6:app_poll	8	static

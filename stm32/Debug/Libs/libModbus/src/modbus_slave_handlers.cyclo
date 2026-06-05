@@ -1,0 +1,11 @@
+../Libs/libModbus/src/modbus_bytes.h:15:24:modbus_be16_get	1
+../Libs/libModbus/src/modbus_slave_handlers.c:15:21:handle_read_coils	7
+../Libs/libModbus/src/modbus_slave_handlers.c:45:21:handle_read_discrete_inputs	7
+../Libs/libModbus/src/modbus_slave_handlers.c:75:21:handle_read_holding_registers	6
+../Libs/libModbus/src/modbus_slave_handlers.c:105:21:handle_read_input_registers	6
+../Libs/libModbus/src/modbus_slave_handlers.c:135:21:handle_write_single_coil	6
+../Libs/libModbus/src/modbus_slave_handlers.c:164:21:handle_write_single_register	4
+../Libs/libModbus/src/modbus_slave_handlers.c:191:21:handle_write_multiple_coils	9
+../Libs/libModbus/src/modbus_slave_handlers.c:223:21:handle_write_multiple_registers	8
+../Libs/libModbus/src/modbus_slave_handlers.c:255:21:handle_mask_write_register	4
+../Libs/libModbus/src/modbus_slave_handlers.c:284:21:handle_read_write_multiple_registers	10

@@ -1,0 +1,7 @@
+../Libs/libConfig/src/config.c:8:8:config_defaults	2
+../Libs/libConfig/src/config.c:25:8:config_load	9
+../Libs/libConfig/src/config.c:45:6:config_save	6
+../Libs/libConfig/src/config.c:75:6:config_apply	5
+../Libs/libConfig/src/config.c:107:6:config_validate_reg	8
+../Libs/libConfig/src/config.c:121:6:config_set_reg	8
+../Libs/libConfig/src/config.c:140:10:config_get_reg	8
